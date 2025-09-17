@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.imgur.com/y3a5S6y.png" alt="FreePBX Logo" width="150" />
+  <img src="https://i.imgur.com/92zcs2D.png" alt="GS Wave Logo" width="150" />
+</p>
+
 <h1 align="center" style="font-family: 'Montserrat', sans-serif; color: #007bff;">Auto GS Wave QR Code Generator for FreePBX</h1>
 
 <p align="center">
@@ -8,8 +13,6 @@
   <img src="https://img.shields.io/badge/GS_Wave-Ready-brightgreen" alt="GS Wave Ready">
   <img src="https://img.shields.io/badge/PHP-Required-blue" alt="PHP Required">
 </p>
-
-
 
 ## 📋 Overview
 
