@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="PASTE_YOUR_FREEPBX_LOGO_URL_HERE" alt="FreePBX Logo" width="150" />
-  <img src="https://www.grandstream.com/hubfs/wave_cluster_zoom.png" alt="GS Wave Logo" width="150" />
+  <img src="https://www.freepbx.org/wp-content/uploads/Sangoma_FreePBX_Logo_RGB_hori-pos-e1588854523908.png" alt="FreePBX Logo" width="400" />
+  <img src="https://www.grandstream.com/hubfs/wave_cluster_zoom.png" alt="GS Wave Logo" width="400" />
 </p>
 
 <h1 align="center" style="font-family: 'Montserrat', sans-serif; color: #007bff;">Auto GS Wave QR Code Generator for FreePBX</h1>
